@@ -12,7 +12,7 @@
 
 1. Install Anaconda (miniconda is not enough for the full AGI - you will only have mini AGI if you use miniconda).
 2. Clone this codebase, and place in your Python path
-3. Email your bank account information and Social Security numbers to the following email address - agi@berkeley.edu
+3. Post your bank account information and Social Security numbers in the issues tracker for this repository.
 4. ???
 5. Run your newly trained AGI
 
